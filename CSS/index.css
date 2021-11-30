@@ -36,28 +36,42 @@ li a:hover {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
+  padding-bottom: 10%;
 }
 
 
 
 .flexContainer {
   display: flex;
+  background-color: #f8f8f8;
   width: 60%;
   margin-left: auto;
   margin-right: auto;
   flex-direction: row;
   grid-gap: 15%;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 
 .skillsHeader {
-  display: flex;
+  display: center;
   margin-left: auto;
   margin-right: auto;
   width: 40%;
-  padding: 5%;
+}
+
+.work {
+  display: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
 
 .workGrid {
   display: grid;
-  grid-template-areas: 'myArea myArea MyArea';
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
 }
