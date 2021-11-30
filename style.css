@@ -1,13 +1,13 @@
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 2.5%;
   overflow: hidden;
   background-color: #333;
 }
 
 li {
-  float: left;
+  float: right;
 }
 
 li a {
@@ -44,6 +44,7 @@ li a:hover {
 .flexContainer {
   display: flex;
   background-color: #f8f8f8;
+  border-radius: 8px;
   width: 60%;
   margin-left: auto;
   margin-right: auto;
@@ -78,7 +79,7 @@ li a:hover {
 
 .USDA {
   float: left;
-  padding-right: 5%;
+  padding: 2.5%;
 }
 
 .description1 {
@@ -98,6 +99,22 @@ li a:hover {
 }
 
 .description2 {
+  float: left;
+}
+
+.item3 {
+  background-color: #C1C2B0;
+  border-radius: 8px;
+  color: black;
+  padding-right: 20px;
+}
+
+.Knutzen {
+  float: left;
+  padding: 2.5%;
+}
+
+.description3 {
   float: left;
 }
 
