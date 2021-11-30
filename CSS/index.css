@@ -69,6 +69,38 @@ li a:hover {
   width: 40%;
 }
 
+.item1 {
+  background-color: #004E3A;
+  border-radius: 8px;
+  color: #f8f8f8;
+  padding-right: 20px;
+}
+
+.USDA {
+  float: left;
+  padding-right: 5%;
+}
+
+.description1 {
+  float: left;
+}
+
+.item2 {
+  background-color: #092E5C;
+  border-radius: 8px;
+  color: #f8f8f8;
+  padding-right: 20px;
+}
+
+.Telluride {
+  float: left;
+  padding: 2.5%;
+}
+
+.description2 {
+  float: left;
+}
+
 .workGrid {
   display: grid;
   margin-left: auto;
