@@ -124,3 +124,20 @@ li a:hover {
   margin-right: auto;
   width: 80%;
 }
+
+@media only screen and (max-width: 600) {
+  .flexContainer {
+    display: flex;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    grid-gap: 15%;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+}
