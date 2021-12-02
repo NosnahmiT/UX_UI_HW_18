@@ -130,7 +130,7 @@ li a:hover {
     display: flex;
     background-color: #f8f8f8;
     border-radius: 8px;
-    width: 100%;
+    width: 0%;
     margin-left: auto;
     margin-right: auto;
     flex-direction: column;
@@ -146,3 +146,4 @@ li a:hover {
     margin-right: auto;
     width: 100%;
   }
+}
